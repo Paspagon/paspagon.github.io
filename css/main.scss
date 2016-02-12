@@ -40,10 +40,25 @@ $on-laptop:        800px;
 }
 
 
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
         "layout",
         "syntax-highlighting"
 ;
+
+.paspagon {
+    &,
+    &:visited {
+        font-family: 'Pinyon Script', cursive;
+        letter-spacing: 0;
+        color: #008;
+        transition: 200ms linear 0s;
+    }
+
+    &:hover {
+        text-decoration: none;
+        text-shadow: -1px 1px 0.7em #00c, 1px -1px 0.7em #00c;
+    }
+}
+@import url(https://fonts.googleapis.com/css?family=Pinyon+Script);
