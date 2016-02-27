@@ -27,13 +27,13 @@ You cannot use the service if you are a customer from the New York state. Additi
 
 Payments on test networks are processed only for test purposes and do not constitute real transactions.
 
-The service is provided by:<br>
-Myto sp. z o. o. sp. k.<br>
-Modrzewiowa 23<br>
-64-930 Dolaszewo<br>
-Poland<br>
-NIP: 7642670817<br>
-seed capital: 5000 zł<br>
+The service is provided by:
+Myto sp. z o. o. sp. k.
+Modrzewiowa 23
+64-930 Dolaszewo
+Poland
+NIP: 7642670817
+seed capital: 5000 zł
 KRS: 0000587724 (Sąd Rejonowy Poznań-Nowe Miasto i Wilda Wydział Ⅸ Gospodarczy)
 
 All disputes will be settled by the court applicable to the location of service provider.
