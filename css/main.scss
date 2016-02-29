@@ -53,12 +53,12 @@ $on-laptop:        800px;
         font-family: 'Pinyon Script', cursive;
         letter-spacing: 0;
         color: #008;
-        transition: 200ms linear 0s;
+        transition: 500ms cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
     }
 
     &:hover {
         text-decoration: none;
-        text-shadow: -1px 1px 0.7em #00c, 1px -1px 0.7em #00c;
+        text-shadow: 0 0 1.5em #00c;
     }
 }
 @import url(https://fonts.googleapis.com/css?family=Pinyon+Script);
