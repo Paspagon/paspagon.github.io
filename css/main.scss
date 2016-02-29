@@ -22,7 +22,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        900px;
 
 
 
@@ -59,6 +59,44 @@ $on-laptop:        800px;
     &:hover {
         text-decoration: none;
         text-shadow: 0 0 1.5em #00c;
+    }
+}
+
+nav.additional {
+    div {
+        position: fixed;
+        width: calc((100% - 900px + (#{$spacing-unit} * 2)) / 2);
+        text-align: center;
+        padding: calc(2 * #{$spacing-unit});
+        box-sizing: border-box;
+
+        a {
+            display: inline-block;
+            width: 0.5em;
+            word-wrap: break-word;
+            white-space: pre-wrap;
+            font-size: 3em;
+            line-height: 1;
+            text-transform: uppercase;
+            font-family: monospace;
+            text-shadow: 2px 3px 4px #aaa;
+
+            &:hover {
+                text-decoration: none;
+            }
+        }
+    }
+
+    .first {
+        left: 0;
+    }
+
+    .second {
+        right: 0;
+    }
+
+    @include media-query($on-laptop + 160px) {
+        display: none;
     }
 }
 @import url(https://fonts.googleapis.com/css?family=Pinyon+Script);

@@ -7,6 +7,18 @@
 
     {% include header.html %}
 
+    {% if page.url == '/' %}
+      <nav class="additional">
+        <div class="first">
+          <a href="/examples/">Examples</a>
+        </div>
+
+        <div class="second">
+          <a href="/terms-seller/">Get started</a>
+        </div>
+      </nav>
+    {% endif %}
+
     <div class="page-content">
       <div class="wrapper">
         {{ content }}
