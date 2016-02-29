@@ -48,7 +48,7 @@ To grant us read access to your bucket, you may select your bucket in AWS Manage
 
 ### Step 2. Configure payments for your bucket
 
-You need to upload a special file named `toll-config.txt` to your bucket. This should be a file in the [INI format](https://en.wikipedia.org/wiki/INI_file) which adheres to the following template:
+You need to upload a special file named `paspagon.ini` to your bucket. This should be a file in the [INI format](https://en.wikipedia.org/wiki/INI_file) which adheres to the following template:
 
 ```ini
 accept-terms = 𝗧𝗘𝗥𝗠𝗦-𝗨𝗥𝗟
