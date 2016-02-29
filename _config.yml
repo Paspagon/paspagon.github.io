@@ -6,9 +6,11 @@ description: >
   No registration is needed and your customers may be anonymous.
 baseurl: ""
 url: "http://paspagon.com"
+
 twitter_username: Paspagon
 github_username:  Paspagon
 subreddit: Paspagon
+facebook_page: Paspagon
 
 # Build settings
 markdown: kramdown
