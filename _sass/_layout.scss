@@ -39,6 +39,8 @@
         &:not(:first-child) {
             margin-left: 20px;
         }
+
+        text-shadow: 2px 1px 3px #aaa;
     }
 
     @include media-query($on-palm) {
