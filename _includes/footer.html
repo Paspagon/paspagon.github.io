@@ -39,6 +39,12 @@
               <a href="https://facebook.com/{{ site.facebook_page }}">Facebook page</a>
             </li>
           {% endif %}
+
+          {% if site.bitcointalk_thread_url %}
+            <li>
+              <a href="{{ site.bitcointalk_thread_url }}">Bitcointalk thread</a>
+            </li>
+          {% endif %}
         </ul>
       </div>
 
