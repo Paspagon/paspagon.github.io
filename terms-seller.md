@@ -19,7 +19,7 @@ You can start using Paspagon in two steps:
 
 ### *Step 0A. Get accustomed to cryptocurrencies*
 
-Since you’re going to get paid in cryptocurrencies, you should know how to use them. This is a deep topic which we don’t aim to cover here – we recommend exploring Bitcoin’s website. You should also organize yourself a wallet to receive payments. The are myriads of options; if you want a quick advice about a web wallet which supports both Bitcoin and BlackCoin, we can point you to [Coinkite](https://coinkite.com).
+Since you’re going to get paid in cryptocurrencies, you should know how to use them. This is a deep topic which we don’t aim to cover here – we recommend exploring Bitcoin’s and BlackCoin’s websites to gain some knowledge and choose wallets for receiving payments.
 
 ### *Step 0B. Get accustomed to cloud storage and create a bucket*
 
