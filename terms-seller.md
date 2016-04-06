@@ -77,7 +77,7 @@ accept-terms = https://github.com/Paspagon/paspagon.github.io/blob/master/terms-
 authorization-keys-der-base64 =
 # Optional geographical restriction for payment generation. You can specify
 # either country-whitelist or country-blacklist.
-country-code-whitelist = US,CN,RU,BR
+country-whitelist = US,CN,RU,BR
 
 [payment]
 # Below you specify default values for your payments. They may be overridden
