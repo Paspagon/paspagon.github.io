@@ -192,7 +192,6 @@ https://s3-us-west-1.paspagon.com/sample-bucket/foo.txt?buyer-location=Chrz%C4%8
 Paspagon region | S3 region | Location | Supported currencies
 --------------- | --------- | -------- | --------------------
 [s3-us-west-2](https://s3-us-west-2.paspagon.com) |  `us-west-2` | Oregon | Bitcoin, BlackCoin
-[s3-eu-west-1-test](https://s3-eu-west-1-test.paspagon.com) |  `eu-west-1` | Ireland | Bitcoin Testnet
 
 ## Payment dispatches
 
