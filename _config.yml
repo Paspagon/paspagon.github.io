@@ -7,6 +7,7 @@ description: >
 baseurl: ""
 url: "http://paspagon.com"
 
+diaspora_profile_url: https://diasp.org/people/be3015f02dca0134b2c0782bcb452bd5
 twitter_username: Paspagon
 github_username:  Paspagon
 subreddit: Paspagon

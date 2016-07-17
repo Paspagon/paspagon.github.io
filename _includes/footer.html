@@ -34,6 +34,12 @@
           </li>
           {% endif %}
 
+          {% if site.diaspora_profile_url %}
+            <li>
+              <a href="{{ site.diaspora_profile_url }}">Diaspora profile</a>
+            </li>
+          {% endif %}
+
           {% if site.facebook_page %}
             <li>
               <a href="https://facebook.com/{{ site.facebook_page }}">Facebook page</a>
