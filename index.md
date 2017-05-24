@@ -26,6 +26,6 @@ The only thing needed to get started is to grant us read access to your bucket a
 
 We don’t gather personal data from your customers (except IP addresses). If you however choose to authorize payment generation by yourself, you may associate custom data with the payment authorization.
 
-#### Support for Bitcoin and BlackCoin
+#### Support for BlackCoin
 
-You may receive payments in [Bitcoin](https://bitcoin.org), the world’s first and most popular cryptocurrency. Or if you want to try the innovatory [Proof-Of-Stake security algorithm](https://en.wikipedia.org/wiki/Proof-of-stake) and benefit from lower transaction fees, you may choose [BlackCoin](http://blackcoin.co/).
+Being the first non-premined, 100% [Proof of Stake]((https://en.wikipedia.org/wiki/Proof-of-stake)) and free cryptocurrency, [BlackCoin](http://blackcoin.co/), with its low transaction fees, is an attractive option for file (micro)payments.

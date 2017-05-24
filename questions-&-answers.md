@@ -6,10 +6,6 @@ permalink: /questions-and-answers/
 * TOC
 {:toc}
 
-### What is Bitcoin?
-
-[Bitcoin](https://bitcoin.org) is an innovative payment network and a new kind of money. Making a detailed description is beyond the scope of this page; you may browse [Bitcoin’s website](https://bitcoin.org) to get familiar with Bitcoin and cryptocurrency concepts.
-
 ### What is BlackCoin and why do you use it?
 
 [BlackCoin](http://blackcoin.co/) is a cryptocurrency derived from Bitcoin which uses a different method to secure the network. This method leads to lower energy consumption, which in particular means lower transaction fees – a feature desired when processing micropayments. Another factor contributing to lower transaction fees is that BlackCoin network is able to process higher transaction volume than Bitcoin’s.

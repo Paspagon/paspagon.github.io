@@ -10,8 +10,8 @@ These terms of service describe the usage of Paspagon (and its subdomains) from 
 
 The following cryptocurrencies are supported:
 
-* [Bitcoin](https://bitcoin.org)
-* [BlackCoin](http://blackcoin.co)
+* [BlackCoin](https://blackcoin.co)
+* [Bitcoin](https://bitcoin.org) (support will cease after 2017-05-31, 2 P.M. UTC)
 
 ## Configuration
 
@@ -19,7 +19,7 @@ You can start using Paspagon in two steps:
 
 ### *Step 0A. Get accustomed to cryptocurrencies*
 
-Since you’re going to get paid in cryptocurrencies, you should know how to use them. This is a deep topic which we don’t aim to cover here – we recommend exploring Bitcoin’s and BlackCoin’s websites to gain some knowledge and choose wallets for receiving payments.
+Since you’re going to get paid in cryptocurrencies, you should know how to use them. This is a deep topic which we don’t aim to cover here – we recommend exploring BlackCoin’s website to gain some knowledge and choose wallets for receiving payments.
 
 ### *Step 0B. Get accustomed to cloud storage and create a bucket*
 
@@ -89,8 +89,7 @@ price-XAU = 0.001
 # Payment dispatch addresses for selected cryptocurrencies.
 # If you don’t specify an address for a cryptocurrency, payments for it won’t
 # be generated.
-# The symbols are: BTC for Bitcoin and BLK for BlackCoin.
-address-BTC = 1BTCinvalid
+# The symbol for BlackCoin is BLK.
 address-BLK = Blkinvalid
 # Expiration time for the URLs to which your customers are redirected after a
 # successful payment (in seconds). Default is 60.
@@ -108,8 +107,8 @@ The config file should be encoded in UTF-8. Only the first 512 bytes of the file
 
 #### Currencies supported for specifying prices
 
-- BTC — Bitcoin
 - BLK — BlackCoin
+- BTC — Bitcoin
 - XAU — troy ounce of gold
 - USD — US dollar
 - EUR — euro
@@ -189,9 +188,9 @@ https://s3-us-west-1.paspagon.com/sample-bucket/foo.txt?buyer-location=Chrz%C4%8
 
 ## Regions provided
 
-Paspagon region | S3 region | Location | Supported currencies
---------------- | --------- | -------- | --------------------
-[s3-us-west-2](https://s3-us-west-2.paspagon.com) |  `us-west-2` | Oregon | Bitcoin, BlackCoin
+Paspagon region | S3 region | Location
+--------------- | --------- | --------
+[s3-us-west-2](https://s3-us-west-2.paspagon.com) |  `us-west-2` | Oregon
 
 ## Payment dispatches
 
