@@ -1,5 +1,6 @@
 ---
 layout: page
+title: false
 ---
 
 ## Sell your cloud-stored files for cryptocurrencies
