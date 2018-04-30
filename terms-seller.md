@@ -11,7 +11,6 @@ These terms of service describe the usage of Paspagon (and its subdomains) from 
 The following cryptocurrencies are supported:
 
 * [BlackCoin](https://blackcoin.co)
-* [Bitcoin](https://bitcoin.org) (support will cease after 2017-05-31, 2 P.M. UTC)
 
 ## Configuration
 
@@ -190,7 +189,7 @@ https://s3-us-west-1.paspagon.com/sample-bucket/foo.txt?buyer-location=Chrz%C4%8
 
 Paspagon region | S3 region | Location
 --------------- | --------- | --------
-[s3-us-west-2](https://s3-us-west-2.paspagon.com) |  `us-west-2` | Oregon
+[s3-us-west-2](https://s3-us-west-2.paspagon.com) — support will cease at 2018-05-01 (CEST)|  `us-west-2` | Oregon
 
 ## Payment dispatches
 
